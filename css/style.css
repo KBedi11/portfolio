@@ -63,7 +63,7 @@ html{
 
 .navbar.sticky{
     padding: 15px 0;
-    background: #00FF00;
+    background: crimson;
 }
 
 .navbar.sticky .menu li a:hover{
